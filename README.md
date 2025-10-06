@@ -1,14 +1,3 @@
-<!-- 
-Hello! This is your new, elite GitHub profile.
-To make this work perfectly, you MUST do one thing:
-Go to your main GitHub page, click "Customize your pins," and make sure you have PINNED your top 3-4 repositories.
-I recommend pinning:
-1. course-management.backend
-2. smart-delivery-management-system
-3. AI-Chatbot
-4. personal-transaction-visualizer-main
--->
-
 <div align="center">
   <h1>Hi there, I'm Devansh Mayatra 👋</h1>
   <h3>A product-focused Full Stack Developer with experience shipping code at high-velocity AI startups.</h3>
