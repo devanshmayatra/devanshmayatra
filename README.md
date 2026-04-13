@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Devansh Mayatra 👋</h1>
-  <h3>Machine Learning Engineer | Full-Stack Developer</h3>
-  <p>I bridge the gap between Data Science and Software Engineering. I specialize in building end-to-end <b>ML Systems</b>—from training custom models to deploying them via scalable <b>FastAPI</b> microservices and <b>React</b> frontends.</p>
+  <h3>Incoming MS in Applied Machine Learning @ University of Maryland 🐢</h3>
+  <p>Software Engineer specializing in <b>ML Systems</b> & <b>System Architecture</b>. Currently bridging the gap between theoretical Data Science and scalable production infrastructure.</p>
 
   <a href="https://www.linkedin.com/in/devanshmayatra">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -13,63 +13,65 @@
 
 ---
 
-### 👨‍💻 About Me
+### 🎓 Academic & Professional Profile
 
-- 🎓 **Current Status:** I am a Final Year **Computer Engineering** student (Bachelor of Engineering) with a strong academic record (**8.02/10 CGPA**).
+- 🏫 **Graduate Studies:** Incoming Master of Science student in **Applied Machine Learning** at the **University of Maryland, College Park** (Fall 2026). My research interests include MLOps, Neural Network Optimization, and RAG systems.
 
-- 🚀 **Current Role:** I’m currently a **Full Stack Developer Intern at Robin Home AI**, working directly with Silicon Valley leadership to architect the "Brain" of an AI-native product, building **Python** backend services that interface with LLMs.
+- 🎓 **Undergraduate:** Final Year **Computer Engineering** student at Mumbai University. 
+  - **CGPA:** 8.02/10.0
+  - **Focus:** Distributed Systems and Advanced Data Science.
 
-- 🛠️ **My Focus:** I am passionate about **MLOps** and **System Architecture**. I don't just train models; I build the infrastructure to serve them. I am proficient in **Deep Learning**, **Computer Vision**, and **Full-Stack Deployment**.
+- 🚀 **Experience:** Currently a **Full Stack Developer Intern at Robin Home AI**. Architecting Python backend services and LLM interfaces. 
+  - *Note: I am currently concluding my professional engagements in India to transition into full-time graduate research.*
 
-- 📫 You can reach me at **devanshm667@gmail.com**.
+- 🛠️ **Technical Focus:** I am passionate about **MLOps**. I don't just train models; I build the infrastructure to serve them. I specialize in **Deep Learning**, **Computer Vision**, and **FastAPI** microservices.
 
 ---
 
 ### 🛠️ My Tech Stack
 
-**Machine Learning & Data Science:**
+**Machine Learning & Research:**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
 </p>
 
-**MLOps, Backend & Cloud:**
+**Systems & Deployment:**
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP">
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render">
-</p>
-
-**Full Stack Engineering:**
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 </p>
 
 ---
 
-### 🚀 Featured ML Engineering Projects
+### 🚀 Featured Research & Engineering Projects
 
-| Project                                    | Description                                                                                                                                                                                                | Key Technologies                                     |
-| :----------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------- |
-| **Real Estate Titan (Production ML)** | A full-stack valuation system. Uses **XGBoost** & **K-Means** for pricing, served via a decoupled **FastAPI** microservice and a **React** frontend. Achieved sub-200ms inference.                         | `XGBoost`, `FastAPI`, `React`, `Docker`, `K-Means`   |
-| **Neural Networks from Scratch** | Implementing Deep Neural Networks, Backpropagation, and Gradient Descent algorithms manually using only **Calculus** and **Linear Algebra**. No frameworks used.                                           | `Python`, `NumPy`, `Math`, `Calculus`                |
-| **Banglore House Price Predictor** | An end-to-end ML pipeline solving high-dimensionality issues in location data. Deployed as a RESTful web service for real-time inference.                                                                  | `Python`, `Flask`, `Scikit-Learn`, `Pandas`          |
+| Project                     | Description                                                                                                                               | Core Stack                         |
+| :-------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------- |
+| **Real Estate Titan** | Production ML system using **XGBoost** & **K-Means**. Features a decoupled FastAPI microservice architecture with sub-200ms inference.    | `XGBoost`, `FastAPI`, `Docker`     |
+| **Neural Nets from Scratch**| Implementation of Backpropagation and Gradient Descent using only **Linear Algebra** and **Calculus**. Deep-dive into foundational ML.    | `Python`, `NumPy`, `Math`          |
+| **DreamCatcher (WIP)** | A Flutter-based research tool for analyzing sleep patterns via accelerometer data and signal processing.                                  | `Flutter`, `Dart`, `Signal Proc`   |
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devanshmayatra&show_icons=true&theme=dracula&rank_icon=github" alt="Devansh's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=devanshmayatra&show_icons=true&theme=tokyonight&rank_icon=github" alt="Devansh's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshmayatra&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+<p align="center">
+  <i>"Currently preparing for the next chapter in Applied ML research at UMD."</i>
 </p>
