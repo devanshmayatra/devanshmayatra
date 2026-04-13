@@ -18,7 +18,7 @@
 - 🏫 **Graduate Studies:** Incoming Master of Science student in **Applied Machine Learning** at the **University of Maryland, College Park** (Fall 2026). My research interests include MLOps, Neural Network Optimization, and RAG systems.
 
 - 🎓 **Undergraduate:** Final Year **Computer Engineering** student at Mumbai University. 
-  - **CGPA:** 8.02/10.0
+  - **CGPA:** 7.97/10.0
   - **Focus:** Distributed Systems and Advanced Data Science.
 
 - 🚀 **Experience:** Currently a **Full Stack Developer Intern at Robin Home AI**. Architecting Python backend services and LLM interfaces. 
